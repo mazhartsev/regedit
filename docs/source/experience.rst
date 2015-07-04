@@ -10,7 +10,7 @@
 * :ref:`kep-registry`
 * :ref:`kep-recovery`
 * :ref:`RegBack`
-* :ref:`Calais`
+* :ref:`Calais-label`
 * :ref:`AddToTrusted`
 
 .. _csp-license:
@@ -224,7 +224,7 @@
 
 -------------
 
-.. _Calais:
+.. _Calais-label:
 
 .. index:: Calais
 
