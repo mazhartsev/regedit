@@ -10,7 +10,7 @@
 * :ref:`kep-registry`
 * :ref:`kep-recovery`
 * :ref:`RegBack`
-* :ref:`Calais-label`
+* :ref:`label-calais`
 * :ref:`AddToTrusted`
 
 .. _csp-license:
@@ -224,12 +224,12 @@
 
 -------------
 
-.. _Calais-label:
-
-.. index:: Calais
+.. _label-calais:
 
 Доступ к считываетлям (Calais)
 ----------------------------------------
+
+.. index:: Calais
 
 Иногда возникает проблема с доступом к считывателям смарт-карт. Она может быть связана с тем, что у текущего пользователя недостаточно прав на следующие ветки:
 
