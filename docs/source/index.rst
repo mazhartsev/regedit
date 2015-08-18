@@ -14,6 +14,7 @@
    preface
    introduce
    work-whith-regedit
+   reg-cmd
    experience
    bibliography
 
